@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### 😄 I'm Hugo de Rohan Willner, a final year student specialising in AI at CentraleSupélec.
+
+### 🔭 I’m currently working on:
+### Deep Reinforcement Learning for Spacecraft Active Debris Removal Mission Planning
+
+### 💬 How to reach me: hugodrw@icloud.com
+
+
 <!--
 **hugodrw/hugodrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
